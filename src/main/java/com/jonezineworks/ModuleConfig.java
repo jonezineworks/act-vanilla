@@ -1,7 +1,7 @@
-package com.petrotec;
+package com.jonezineworks;
 
-import com.petrotec.services.DemoService;
-import com.petrotec.services.DemoServiceImpl;
+import com.jonezineworks.services.DemoService;
+import com.jonezineworks.services.DemoServiceImpl;
 import org.osgl.inject.Module;
 
 public class ModuleConfig extends Module {
