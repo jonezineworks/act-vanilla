@@ -1,7 +1,7 @@
-package com.petrotec.controllers;
+package com.jonezineworks.controllers;
 
 import act.controller.Controller;
-import com.petrotec.services.DemoService;
+import com.jonezineworks.services.DemoService;
 import org.osgl.mvc.annotation.GetAction;
 
 import javax.inject.Inject;
